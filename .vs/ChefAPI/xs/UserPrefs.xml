@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3CE6A395-AA02-4394-8932-BA224861425A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/ChefContext.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="45" Column="13" />
+      <File FileName="Controllers/ChefController.cs" Line="107" Column="14" />
+      <File FileName="Data/I_Chef.cs" />
+      <File FileName="Data/ChefContext.cs" Line="1" Column="1" />
+      <File FileName="Data/ChefRepo.cs" />
+      <File FileName="Models/Chef.cs" />
+      <File FileName="Details/ChefUpdate_Details.cs" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChefAPI" expanded="True">
+            <Node name="ChefAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="ChefContext.cs" selected="True" />
+              </Node>
+              <Node name="Details" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChefAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
